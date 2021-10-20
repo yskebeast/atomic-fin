@@ -1,2 +1,2 @@
-# atomic-fin
+# atomic-design
 Created with CodeSandbox
